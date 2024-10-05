@@ -63,4 +63,4 @@ This is a Laravel-based API for managing users, projects, and timesheets. It inc
 
     The API will now be available at `http://localhost:8000`.
 
-Please check read.txt for further documentation
+Please check read.md for further documentation
